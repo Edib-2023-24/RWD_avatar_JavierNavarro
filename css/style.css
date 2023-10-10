@@ -14,10 +14,10 @@
 }
 
 .image__avatar {
-  background-image: url('../img/desktop/avatar.webp');
   width: 400px;
   height: 400px;
   border-radius: 400px;
+  padding: 5px;
 }
 
 .nombre__avatar {
